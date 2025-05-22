@@ -1,5 +1,5 @@
 steps performed: 
-<p> 
+
 Collected, cleaned, and preprocessed fertility treatment data to build a predictive model for pregnancy success post-IVF.
 
 Handled missing and placeholder values (999) with forward-fill strategy and appropriate data type conversion.
@@ -16,4 +16,4 @@ Trained and validated a Random Forest Classifier, achieving model evaluation usi
 
 Visualized feature importance and model selection steps to aid in explainability.
 
-Explored hyperparameter tuning using GridSearchCV (commented out but shows awareness of advanced model optimization).</p?
+Explored hyperparameter tuning using GridSearchCV (commented out but shows awareness of advanced model optimization)
