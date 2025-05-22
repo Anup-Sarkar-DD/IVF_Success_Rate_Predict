@@ -1,1 +1,19 @@
-ivf update roles and responsibilities
+steps performed: 
+<p> 
+Collected, cleaned, and preprocessed fertility treatment data to build a predictive model for pregnancy success post-IVF.
+
+Handled missing and placeholder values (999) with forward-fill strategy and appropriate data type conversion.
+
+Engineered new features such as age bins and encoded categorical IVF treatment factors for modeling.
+
+Conducted Exploratory Data Analysis (EDA) using seaborn and matplotlib to uncover patterns and correlations.
+
+Performed class imbalance handling using RandomOverSampler to improve model performance.
+
+Applied feature scaling using StandardScaler and conducted feature selection with Sequential Forward Selection (SFS) from mlxtend.
+
+Trained and validated a Random Forest Classifier, achieving model evaluation using accuracy scores and prediction metrics.
+
+Visualized feature importance and model selection steps to aid in explainability.
+
+Explored hyperparameter tuning using GridSearchCV (commented out but shows awareness of advanced model optimization).</p?
